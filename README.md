@@ -1,0 +1,2 @@
+# faztlp
+Daily digest notes
